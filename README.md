@@ -34,3 +34,9 @@ You can tweak the colors of this theme by editing the CSS file and modifying the
 ```
 
 Of course, if needed, you have the full flexibility of FusionAuth themes as well. Learn more about that here: https://fusionauth.io/docs/v1/tech/themes/
+
+## Eye Candy
+
+Change Bank
+
+<img src="/change-bank/change-bank-example.png" />
