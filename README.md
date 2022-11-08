@@ -1,6 +1,6 @@
 # FusionAuth Example Themes
 
-This is a set of customizable FusionAuth themes. These should be production ready.
+This is a set of customizable FusionAuth themes. These should be production ready but are not future proofed. They should serve as a great foundation for you to customize the hosted login pages of the FusionAuth auth server.
 
 ## Installation
 
