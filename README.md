@@ -28,7 +28,7 @@ You can tweak the colors of this theme by editing the CSS file and modifying the
   --error-color: #ff0000;
   --error-background: #ffe8e8;
   --border-color: #dddddd;
-  --logo-url: url(https://fusionauth.io/assets/img/samplethemes/changebank/changebank.svg);
+  --logo-url: url(https://fusionauth.io/cdn/samplethemes/changebank/changebank.svg);
   --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 ```
